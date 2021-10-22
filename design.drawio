@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="YZuVOsNQ888p8n25yqPy" name="Page-1">
+        <mxGraphModel dx="655" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="70" width="297.44" height="580" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="120" width="280" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="260" width="260" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 38px&quot;&gt;WA.ME&lt;/font&gt;" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="328.72" y="170" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="60" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="300" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="NO TELEFON:&amp;nbsp;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="300" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="MESEJ" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="350" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="HANTAR" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="414" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="SALIN LINK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#CCE5FF;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="414" width="80" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
